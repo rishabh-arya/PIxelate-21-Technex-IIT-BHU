@@ -2,6 +2,8 @@
 
 For better understanding, read the problem statement pdf file given above.
 
+You can download and install the pixelate arena simulator environment from [here](https://github.com/Robotics-Club-IIT-BHU/Pixelate_Main_Arena).
+
 ### Interpretation of Problem statement
 
 <img src="images/1.png" width = "1080" height="520">
