@@ -2,7 +2,7 @@
 
 For better understanding, read the problem statement pdf file given above.
 
-You can download and install the pixelate arena simulator environment from [here](https://github.com/Robotics-Club-IIT-BHU/Pixelate_Main_Arena).
+You can download and install the pixelate main arena from this repository [here](https://github.com/Robotics-Club-IIT-BHU/Pixelate_Main_Arena). All instructions for installation are given there.
 
 ### Interpretation of Problem statement
 
